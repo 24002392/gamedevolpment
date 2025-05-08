@@ -1,8 +1,8 @@
 # EX 9 : IMAGE EDITING
 
-NAME : MOHAMED NIZAMUDDIN A
+NAME : YASHWANTH K
 
-REG NO : 212224040194
+REG NO : 212224040369
 
 ## AIM:
 
@@ -56,7 +56,8 @@ REG NO : 212224040194
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5510c495-6b5c-4dee-87aa-97a9124eaa78)
+![image](https://github.com/user-attachments/assets/704b5bd6-16bf-48dd-8d3c-0828d87b0292)
+
 
 ## RESULT : 
 
